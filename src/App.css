@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+.App {
+  text-align: center;
+  background-color: rgb(198, 184, 249);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: auto;
+  height: 100vh;
+  width: 100vw;
+  align-content: center;
+}
+
+header{
+  font: "Oswald";
+  color:rgb(86, 60, 231);
+}
+
+.loading{
+  font: "Oswald";
+  
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.tip{
+  font: "Oswald";
+  color:rgb(86, 60, 231);
+}
+
+.tipContainer{
+  padding: 10px;
+  border: 2px solid rgb(86, 60, 231);
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  word-wrap: break-word;
+  width: 50%;
+   
+}
