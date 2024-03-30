@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phishsafe-web/static/css/main.628421c4.css",
+    "main.js": "/phishsafe-web/static/js/main.ff43b3a1.js",
+    "index.html": "/phishsafe-web/index.html",
+    "main.628421c4.css.map": "/phishsafe-web/static/css/main.628421c4.css.map",
+    "main.ff43b3a1.js.map": "/phishsafe-web/static/js/main.ff43b3a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.628421c4.css",
+    "static/js/main.ff43b3a1.js"
+  ]
+}
