@@ -11,7 +11,7 @@ function App() {
   const [isLoaded, setIsLoaded] = useState<boolean>(false);
   const [result, setResult] = useState<number>(0);
   const [url, setUrl] = useState('');
-
+  
   const handleSubmit = async (e: React.FormEvent ) =>  {
     e.preventDefault();
     if (!url) {
@@ -22,7 +22,7 @@ function App() {
     console.log(url);
     const res = await fetch(
 
-      "http://localhost:8000/checkURL",
+      "https://phishsafe-server.onrender.com/checkURL",
       {
         method: "POST",
         headers: {
