@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/PhishSafe-web/static/css/main.628421c4.css",
-    "main.js": "/PhishSafe-web/static/js/main.ff43b3a1.js",
+    "main.js": "/PhishSafe-web/static/js/main.e2be153a.js",
     "index.html": "/PhishSafe-web/index.html",
     "main.628421c4.css.map": "/PhishSafe-web/static/css/main.628421c4.css.map",
-    "main.ff43b3a1.js.map": "/PhishSafe-web/static/js/main.ff43b3a1.js.map"
+    "main.e2be153a.js.map": "/PhishSafe-web/static/js/main.e2be153a.js.map"
   },
   "entrypoints": [
     "static/css/main.628421c4.css",
-    "static/js/main.ff43b3a1.js"
+    "static/js/main.e2be153a.js"
   ]
 }
